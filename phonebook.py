@@ -1,7 +1,7 @@
 import json
 import sys
-from utils import messages
 
+from utils import messages
 from utils.printer import printer_contacts
 from utils.info import _request_info
 
